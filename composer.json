@@ -1,0 +1,16 @@
+{
+    "name": "tousi/ncv",
+    "description": "verify iranian national code",
+    "authors": [
+        {
+            "name": "Mohmadreza Tousi",
+            "email": "mr.tousi.68@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "tousi\\NCV\\": "src/"
+        }
+    },
+    "require": {}
+}
